@@ -4,7 +4,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KV6oRcyzl4cARP0FgY2H-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="GqqKHPwvj2cem5UqYZ4E-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KV6oRcyzl4cARP0FgY2H-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KV6oRcyzl4cARP0FgY2H-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
