@@ -352,14 +352,20 @@
         <mxCell id="5IzLCCTuQH7_tFfm2Tec-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5IzLCCTuQH7_tFfm2Tec-2" target="5IzLCCTuQH7_tFfm2Tec-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5IzLCCTuQH7_tFfm2Tec-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5IzLCCTuQH7_tFfm2Tec-2" target="5IzLCCTuQH7_tFfm2Tec-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5IzLCCTuQH7_tFfm2Tec-2" value="&lt;div&gt;&lt;span style=&quot;font-size: 10.45pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;a&amp;gt;9 &amp;amp;&amp;amp; b&amp;gt;5&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-500" y="240" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5IzLCCTuQH7_tFfm2Tec-4" value="&lt;div&gt;&lt;span style=&quot;font-size: 10.45pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;x = a * a * b&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-360" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5IzLCCTuQH7_tFfm2Tec-6" value="&lt;div&gt;&lt;span style=&quot;font-size: 10.45pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;a&amp;gt;9 &amp;amp;&amp;amp; b&amp;gt;5&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5IzLCCTuQH7_tFfm2Tec-6" value="&lt;div&gt;&lt;span style=&quot;font-size: 10.45pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;a&amp;lt;0 &amp;amp;&amp;amp; b&amp;lt;0&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-500" y="377" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5IzLCCTuQH7_tFfm2Tec-8" value="&lt;div&gt;&lt;span style=&quot;font-size: 10.45pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;x = a * a * b&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="387" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
