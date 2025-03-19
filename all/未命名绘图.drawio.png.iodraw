@@ -182,6 +182,15 @@
         <mxCell id="uJekRFDNhRMwtg2DMjwb-18" value="a" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="455" y="198" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="uJekRFDNhRMwtg2DMjwb-19" value="b" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="455" y="338" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJekRFDNhRMwtg2DMjwb-20" value="c" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="455" y="468" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJekRFDNhRMwtg2DMjwb-21" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="545" y="258" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
