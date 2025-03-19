@@ -376,8 +376,11 @@
         <mxCell id="5IzLCCTuQH7_tFfm2Tec-10" value="&lt;div&gt;&lt;span style=&quot;font-size: 10.45pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;x = a + b&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-520" y="568" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5IzLCCTuQH7_tFfm2Tec-12" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="5IzLCCTuQH7_tFfm2Tec-12" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-415" y="248" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5IzLCCTuQH7_tFfm2Tec-13" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-413" y="432" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
