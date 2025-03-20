@@ -204,7 +204,7 @@
           <mxGeometry x="640" y="192" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uJekRFDNhRMwtg2DMjwb-26" value="S1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="380" y="392" width="40" height="30" as="geometry" />
+          <mxGeometry x="360" y="405" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uJekRFDNhRMwtg2DMjwb-30" value="S2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="560" y="392" width="40" height="30" as="geometry" />
