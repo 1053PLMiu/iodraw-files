@@ -20,7 +20,22 @@
           <mxGeometry x="440" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OqDDdtmgL9zsoxqbvi1j-69" value="副书记1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="960" width="120" height="60" as="geometry" />
+          <mxGeometry x="-70" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OqDDdtmgL9zsoxqbvi1j-70" value="副书记1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OqDDdtmgL9zsoxqbvi1j-71" value="副书记1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OqDDdtmgL9zsoxqbvi1j-72" value="副书记1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OqDDdtmgL9zsoxqbvi1j-73" value="副书记1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OqDDdtmgL9zsoxqbvi1j-74" value="副书记1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="940" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
