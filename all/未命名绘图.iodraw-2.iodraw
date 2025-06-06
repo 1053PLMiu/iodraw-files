@@ -49,10 +49,10 @@
         <mxCell id="OqDDdtmgL9zsoxqbvi1j-72" value="秘书部" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="960" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OqDDdtmgL9zsoxqbvi1j-73" value="副书记1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OqDDdtmgL9zsoxqbvi1j-73" value="社工部" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="960" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OqDDdtmgL9zsoxqbvi1j-74" value="副书记1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OqDDdtmgL9zsoxqbvi1j-74" value="文体部" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="960" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
