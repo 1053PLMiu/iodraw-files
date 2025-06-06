@@ -67,6 +67,12 @@
         <mxCell id="OqDDdtmgL9zsoxqbvi1j-21" value="领导审核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="2060" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="OqDDdtmgL9zsoxqbvi1j-23" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1950" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OqDDdtmgL9zsoxqbvi1j-24" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1950" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
