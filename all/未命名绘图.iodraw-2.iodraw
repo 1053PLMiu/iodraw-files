@@ -99,17 +99,6 @@
         <mxCell id="OqDDdtmgL9zsoxqbvi1j-36" value="退回修改" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="2084" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OqDDdtmgL9zsoxqbvi1j-37" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="680" y="2038" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OqDDdtmgL9zsoxqbvi1j-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" target="OqDDdtmgL9zsoxqbvi1j-39" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="720" y="2030" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OqDDdtmgL9zsoxqbvi1j-39" value="退回修改" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="2084" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
