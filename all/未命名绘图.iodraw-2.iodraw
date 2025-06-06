@@ -108,10 +108,7 @@
         <mxCell id="OqDDdtmgL9zsoxqbvi1j-42" value="无问题" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="900" y="1890" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OqDDdtmgL9zsoxqbvi1j-43" value="活动开展中" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1840" y="1555" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OqDDdtmgL9zsoxqbvi1j-44" value="记录关键环节（领导发言、颁奖仪式等）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OqDDdtmgL9zsoxqbvi1j-44" value="在活动中记录关键环节（领导发言、颁奖仪式等）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2040" y="1555" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OqDDdtmgL9zsoxqbvi1j-45" value="24小时内完成初稿" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
