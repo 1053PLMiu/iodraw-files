@@ -120,7 +120,7 @@
         <mxCell id="OqDDdtmgL9zsoxqbvi1j-46" value="副书记审核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2440" y="1555" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OqDDdtmgL9zsoxqbvi1j-47" value="副书记审核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OqDDdtmgL9zsoxqbvi1j-47" value="领导审核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2640" y="1555" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
