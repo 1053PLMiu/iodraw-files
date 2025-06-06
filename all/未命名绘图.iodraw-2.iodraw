@@ -83,6 +83,9 @@
         <mxCell id="pjbbUOM2e3wBkatFR1KI-27" value="活动执行：签到+评价" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="1570" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="pjbbUOM2e3wBkatFR1KI-28" value="学分自动发放" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="1570" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
