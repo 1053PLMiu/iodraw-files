@@ -96,8 +96,8 @@
             <mxPoint x="1460" y="2160" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OqDDdtmgL9zsoxqbvi1j-35" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="2170" width="40" height="30" as="geometry" />
+        <mxCell id="OqDDdtmgL9zsoxqbvi1j-35" value="有问题" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="2170" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OqDDdtmgL9zsoxqbvi1j-36" value="退回修改" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="2240" width="120" height="60" as="geometry" />
@@ -106,7 +106,7 @@
           <mxGeometry x="1590" y="2170" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OqDDdtmgL9zsoxqbvi1j-42" value="无问题" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1650" y="2098" width="60" height="30" as="geometry" />
+          <mxGeometry x="1670" y="2090" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
