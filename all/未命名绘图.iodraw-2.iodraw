@@ -111,6 +111,9 @@
         <mxCell id="OqDDdtmgL9zsoxqbvi1j-43" value="活动开展中" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1840" y="1555" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="OqDDdtmgL9zsoxqbvi1j-44" value="记录关键环节（领导发言、颁奖仪式等）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="1555" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
