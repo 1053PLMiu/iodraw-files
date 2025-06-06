@@ -74,7 +74,7 @@
         <mxCell id="pjbbUOM2e3wBkatFR1KI-24" value="材料齐全" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="1560" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pjbbUOM2e3wBkatFR1KI-25" value="院二课中心审核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pjbbUOM2e3wBkatFR1KI-25" value="校二课中心终审" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="1570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
