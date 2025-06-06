@@ -44,10 +44,10 @@
         <mxCell id="pjbbUOM2e3wBkatFR1KI-7" value="二科中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pjbbUOM2e3wBkatFR1KI-8" value="副书记" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pjbbUOM2e3wBkatFR1KI-8" value="文体部" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pjbbUOM2e3wBkatFR1KI-9" value="副书记" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pjbbUOM2e3wBkatFR1KI-9" value="社工 部" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pjbbUOM2e3wBkatFR1KI-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pjbbUOM2e3wBkatFR1KI-3" target="pjbbUOM2e3wBkatFR1KI-3">
