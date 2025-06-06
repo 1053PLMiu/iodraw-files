@@ -80,11 +80,20 @@
         <mxCell id="pjbbUOM2e3wBkatFR1KI-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pjbbUOM2e3wBkatFR1KI-24" target="pjbbUOM2e3wBkatFR1KI-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="pjbbUOM2e3wBkatFR1KI-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pjbbUOM2e3wBkatFR1KI-24" target="pjbbUOM2e3wBkatFR1KI-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pjbbUOM2e3wBkatFR1KI-24" value="材料齐全" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="1560" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="pjbbUOM2e3wBkatFR1KI-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pjbbUOM2e3wBkatFR1KI-25" target="pjbbUOM2e3wBkatFR1KI-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pjbbUOM2e3wBkatFR1KI-25" value="校二课中心终审" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="1570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pjbbUOM2e3wBkatFR1KI-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pjbbUOM2e3wBkatFR1KI-26" target="pjbbUOM2e3wBkatFR1KI-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pjbbUOM2e3wBkatFR1KI-26" value="到梦空间发布活动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="1570" width="120" height="60" as="geometry" />
