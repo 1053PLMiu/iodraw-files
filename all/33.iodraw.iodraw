@@ -13,14 +13,26 @@
         <mxCell id="LoHzbSlnKBH2-mR5MsSV-3" value="提前了解活动流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="670" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LoHzbSlnKBH2-mR5MsSV-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LoHzbSlnKBH2-mR5MsSV-4" target="LoHzbSlnKBH2-mR5MsSV-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LoHzbSlnKBH2-mR5MsSV-4" value="在活动中记录关键环节（领导发言、颁奖等）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LoHzbSlnKBH2-mR5MsSV-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LoHzbSlnKBH2-mR5MsSV-5" target="LoHzbSlnKBH2-mR5MsSV-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LoHzbSlnKBH2-mR5MsSV-5" value="24小时内完成初稿" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="670" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LoHzbSlnKBH2-mR5MsSV-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LoHzbSlnKBH2-mR5MsSV-6" target="LoHzbSlnKBH2-mR5MsSV-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LoHzbSlnKBH2-mR5MsSV-6" value="副书记审核" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="660" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LoHzbSlnKBH2-mR5MsSV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LoHzbSlnKBH2-mR5MsSV-7" target="LoHzbSlnKBH2-mR5MsSV-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LoHzbSlnKBH2-mR5MsSV-7" value="书记审核" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="827" y="660" width="80" height="80" as="geometry" />
