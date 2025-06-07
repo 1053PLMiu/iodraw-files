@@ -19,6 +19,9 @@
         <mxCell id="LoHzbSlnKBH2-mR5MsSV-6" value="副书记审核" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="660" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="LoHzbSlnKBH2-mR5MsSV-7" value="书记审核" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="660" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
